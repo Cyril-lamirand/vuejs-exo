@@ -29,7 +29,7 @@
 
 <h1>Legal</h1>
 <h3>License</h3>
-<p><b>laravel5</b> - <i>School project</i></p>
+<p><b>VueJS</b> - <i>School project</i></p>
 <p><b><i>Copyright</i> (C)</b> 2019-2023 <b>LAMIRAND Cyril</b></p>
 <p>This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.</p>
 <p>This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.</p>
