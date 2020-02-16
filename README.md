@@ -3,7 +3,7 @@
 <p>Vue.js, est un framework JavaScript open-source utilisé pour construire des interfaces utilisateur. La bibliothèque est notamment utilisée par Adobe, Alibaba et Gitlab. Vue a été créé par Evan You après avoir travaillé pour Google en utilisant AngularJS dans plusieurs projets.</p>
 
 <h1>🟠 Institut de l'Internet et du Multimédia</h1>
-<p>Module : Laravel [TD]</p>
+<p>Module : VueJS [TD]</p>
 <p>A2 | Axe développement Web, <b>A2DW3</b>.</p>
 <h1>🟡 Environment</h1>
 <p>🔹 Windows 10 Professionnal / Ubuntu 18.04 LTS</p>
