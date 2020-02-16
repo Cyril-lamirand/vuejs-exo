@@ -52,7 +52,7 @@
                 <ul>
                     <li class="ta-left">/</li>
                     <li class="ta-left">/movie</li>
-                    <li class="ta-left">/details/:id</li>
+                    <li class="ta-left">/details/id</li>
                 </ul>
                 <h5 class="ta-left">To Do</h5>
                 <ul>
