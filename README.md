@@ -18,13 +18,14 @@
 <p>🔸 VueJS <a href="https://vuejs.org/">VueJS Documentation</a></p>
 
 <h1>Routes</h1>
-```
-http://localhost:8080/
+<ul>
+<li>http://localhost:8080/</li>
 
-http://localhost:8080/movie
+<li>http://localhost:8080/movie</li>
 
-http://localhost:8080/details/id
-```
+<li>http://localhost:8080/details/id</li>
+</ul>
+
 
 <h1>Legal</h1>
 <h3>License</h3>
