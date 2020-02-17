@@ -35,4 +35,4 @@
 <p>This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.</p>
 <p>You should have received a copy Of the GNU General Public License along with this program.</p> 
 <p>If Not, see <a href="http://www.gnu.org/licenses/">GNU - Licenses</a>.</p>
-<h6>Laravel 5 - Framework</h6>
+<h6>VueJS</h6>
