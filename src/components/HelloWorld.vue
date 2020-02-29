@@ -11,7 +11,7 @@
                 <hr>
                 <h5 class="ta-left">I.D.E</h5>
                 <ul>
-                    <li class="ta-left">IntelliJ IDEA Ultimate</li>
+                    <li class="ta-left">IntelliJ IDEA Ultimate =D</li>
                 </ul>
                 <h5 class="ta-left">O.S</h5>
                 <ul>
